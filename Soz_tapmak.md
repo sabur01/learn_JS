@@ -1,5 +1,5 @@
 
-##Sozlemin ichinden soz tapyan **programma**
+## Sozlemin ichinden soz tapyan **programma**
 ```
 function checkSpam(str) {
     let str1= str.toLowerCase(); 
